@@ -1,0 +1,101 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - age_for_marriage
+  - condition_for_marriage
+  - laws_and_policies_for_marraige
+  - marriage_types
+  - deega_marriage
+  - binna_marriage
+  - muslim_marriage
+  - how_many_marriages_musslim_men_can_do
+  - how_many_marriages_musslim_women_can_do
+  - reason_to_cancel_marraige
+
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- utter_age_for_marriage
+- utter_condition_for_marriage
+- utter_laws_and_policies_for_marraige
+- utter_marriage_types
+- utter_deega_marriage
+- utter_binna_marriage
+- utter_muslim_marriage
+- utter_how_many_marriages_musslim_men_can_do
+- utter_how_many_marriages_musslim_women_can_do
+- utter_reason_to_cancel_marraige
+
+
+templates:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+
+  utter_age_for_marriage:
+  - text: "18 years old"
+
+  utter_condition_for_marriage:
+  - text: "- Age limit is more than 18 years old 
+- If age is above 18 ,they can marry with or without permission of parents.
+- In muslim law, age limit for marriage is 12 & they can marry with the permission of their parents and kathi
+"
+
+  utter_laws_and_policies_for_marraige:
+  - text: "- Marriage Registration Ordinance, 1907; and Marriage Registration (Amendment) Act, 1995
+- Kandyan Marriage and Divorce Act, 1952; and Kandyan Marriage and Divorce (Amendment) Act, 1995
+- Muslim Marriage and Divorce Act, 1951
+- Civil Procedure Code, 1889
+- Maintenance Act, 1999
+- Adoption of Children Ordinance, 1941; amended in 1992
+"
+
+  utter_marriage_types:
+  - text: "- Deega Marriage 
+- Binna Marriage
+"
+
+  utter_deega_marriage:
+  - text: "A marriage in which the wife joins the husband's family, where the wife may only inherit a lesser or no share of her family property. Her dowry is incorporated into the wealth of the husband's family."
+
+  utter_binna_marriage:
+  - text: "A marriage in which the husband joins the wife's family, where the wife may inherit her family property in equal or more portion. The husband does not inherit his wife's estate which transfers to their children on her death. The husband however may administer her holdings and has life interest on her estate."
+
+  utter_muslim_marriage:
+  - text: "In muslim law, age limit for marriage is 12 & they can marry with the permission of the parents and kathi"
+
+  utter_how_many_marriages_musslim_men_can_do:
+  - text: "4 marriages"
+
+  utter_how_many_marriages_musslim_women_can_do:
+  - text: "1 marriage"
+
+  utter_reason_to_cancel_marraige:
+  - text: "- When age is less than 18 
+- When there is forbidden relationship between  people
+"
