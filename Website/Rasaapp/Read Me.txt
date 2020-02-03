@@ -1,0 +1,9 @@
+http://localhost/fitness/loginsystem/ 
+for fitness club members.
+
+http://localhost/fitness/loginsystem/admin
+for firness club admin
+username-admin
+passowrd-Test@123
+
+Database name - loginsystem
