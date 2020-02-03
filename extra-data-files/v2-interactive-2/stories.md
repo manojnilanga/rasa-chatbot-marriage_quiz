@@ -30,9 +30,9 @@
 * bot_challenge
   - utter_iamabot
 
-<!-- ## age_for_marriage
+## age_for_marriage
 * age_for_marriage
-  - utter_age_for_marriage -->
+  - utter_age_for_marriage
 
 ## condition_for_marriage
 * condition_for_marriage
@@ -72,7 +72,7 @@
 
 ## interactive_2
 * parents_sign_as_witness
-  - utter_yes_definitely
+  - utter_yes
 * limitations_to_be_a_witness
   - utter_above_18_years
 
@@ -81,15 +81,3 @@
   - utter_id_and_passport
 * nonsrilakan_marriage_other
   - utter_only_thing
-
-## interactive_4_yes
-* minimum_age_marraige
-  - utter_marriage_age
-* affirm
-  - utter_explain_marriage_age
-
-## interactive_4_no
-* minimum_age_marraige
-  - utter_marriage_age
-* deny
-  - utter_good_day

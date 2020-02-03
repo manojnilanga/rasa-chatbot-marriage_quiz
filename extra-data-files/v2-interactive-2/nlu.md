@@ -55,9 +55,9 @@
 - am I talking to a bot?
 - am I talking to a human?
 
-<!-- ## intent:age_for_marriage
+## intent:age_for_marriage
 - what is the age for marriage?
-- minimum age for marriage? -->
+- minimum age for marriage?
 
 ## intent:condition_for_marriage
 - what are the conditions for marriage?
@@ -109,28 +109,22 @@
 <!-- interactive session 2 -->
 ## intent:parents_sign_as_witness
 - can parents sign as witness to register a marriage?
-- parents sign as witness to register a marriage?
-- can parents be as witness to register a marriage?
+- can sign as a witness by a parent
+- parent sign as witness is ok?
 
-## intent:limitations_to_be_a_witness
+## limitations_to_be_a_witness
 - are there any limitations to be a witness in a marriage?
 - limitations to be a witness
 - what are the limitations to be a witness for a marriage?
 
 <!-- interactive session 3 -->
-## intent:documents_srilankan_nonsrilakan_marriage
+## documents_srilankan_nonsrilakan_marriage
 - what are the documents required to get married between a Sri Lankan citizen and a non-Sri Lankan citizen?
 - documents to get marry a non sri lankan citizen?
 - required documents for a non sri lankan citizen marriage
 
-## intent:nonsrilakan_marriage_other
+## nonsrilakan_marriage_other
 - what are the other matters related to this?
 - what are the other things matter relating non sri lankan marriage?
 - other concerns?
-
-<!-- interactive session 4 -->
-## intent:minimum_age_marraige
-- what is the age for marriage?
-- minimum age for marriage?
-
 

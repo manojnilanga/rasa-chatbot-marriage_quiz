@@ -6,7 +6,7 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-  # - age_for_marriage
+  - age_for_marriage
   - condition_for_marriage
   - laws_and_policies_for_marraige
   - marriage_types
@@ -16,11 +16,6 @@ intents:
   - how_many_marriages_musslim_men_can_do
   - how_many_marriages_musslim_women_can_do
   - reason_to_cancel_marraige
-  - parents_sign_as_witness
-  - limitations_to_be_a_witness
-  - documents_srilankan_nonsrilakan_marriage
-  - nonsrilakan_marriage_other
-  - minimum_age_marraige
 
 actions:
 - utter_greet
@@ -29,7 +24,7 @@ actions:
 - utter_happy
 - utter_goodbye
 - utter_iamabot
-# - utter_age_for_marriage
+- utter_age_for_marriage
 - utter_condition_for_marriage
 - utter_laws_and_policies_for_marraige
 - utter_marriage_types
@@ -39,13 +34,6 @@ actions:
 - utter_how_many_marriages_musslim_men_can_do
 - utter_how_many_marriages_musslim_women_can_do
 - utter_reason_to_cancel_marraige
-- utter_yes_definitely
-- utter_above_18_years
-- utter_id_and_passport
-- utter_only_thing
-- utter_marriage_age
-- utter_good_day
-- utter_explain_marriage_age
 
 
 templates:
@@ -69,8 +57,8 @@ templates:
   - text: "I am a bot, powered by Rasa."
 
 
-  # utter_age_for_marriage:
-  # - text: "18 years old"
+  utter_age_for_marriage:
+  - text: "18 years old"
 
   utter_condition_for_marriage:
   - text: "- Age limit is more than 18 years old 
@@ -111,30 +99,3 @@ templates:
   - text: "- When age is less than 18 
 - When there is forbidden relationship between  people
 "
-  utter_yes_definitely:
-  - text: "Yes, definitely"
-
-  utter_above_18_years:
-  - text: "He or she should be above 18 years old"
-
-  utter_id_and_passport:
-  - text: "Just ID and passport"
-
-  utter_only_thing:
-  - text: "It is only after staying in Sri Lanka for at least 5 days. Divorce documents are required if you are married before"
-
-  utter_marriage_age:
-  - text: "18 years old under general marriage law. Do you need more explanation?"
-
-  utter_good_day:
-  - text: "Have a good day!"
-
-  utter_explain_marriage_age:
-  - text: "The General Marriage and Divorce Ordinance No. 19 of 1907 applies. The General Marriage and Divorce Ordinance was amended by Act No. 18 of 1995. According to the common law, the minimum age for marriage is 18 years.
-Kandyan law is governed by the Kandyan Marriage and Divorce Act No 44 of 1952. So the minimum age for a woman is 16 and for a man 18.
-For Muslim laws, it is mentioned that the marriage of a girl below the age of 12 years requires the permission of the ‘Kaathi’. (Section 47 (1) (i) of the Act). Accordingly, a girl under the age of 12 years can marry with the permission of Kaathi.
-"
-
-
-
-  
