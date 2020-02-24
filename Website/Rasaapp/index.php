@@ -96,7 +96,7 @@ echo "<script>alert('Email not register with us');</script>";
 </head>
 <body>
 <div class="main">
-		<h1 style="color:black;">Fitness Company</h1>
+	 <br>
 	 <div class="sap_tabs">	
 			<div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
 			  <ul class="resp-tabs-list">

@@ -1,0 +1,1342 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+
+
+  - age_for_marriage
+  - condition_for_marriage
+  - laws_and_policies_for_marriage
+  - marriage_types
+  - deega_marriage
+  - binna_marriage
+  - muslim_marriage
+  - how_many_marriages_muslim_men_can_do
+  - how_many_marriages_muslim_women_can_do
+  - reason_to_cancel_marriage
+
+  - general_law_under_marriage
+  - laws_influenced_to_the_general_law_of_marriage
+  - Weatherly_v_Weatherly_case
+  - difference_between_marriage_contract_and_commercial_contract
+  - Marriage_Registration_Ordinance
+  - act_of_Kandyan_Marriage_and_Divorce_law
+  - act_of_Muslim_Marriage_and_Divorce_law
+  - minimum_age_according_to_Marriage_Registration_Ordinance_No_19_of_1907
+  - minimum_age_according_to_the_Muslim_marriage
+  - prohibited_degrees_of_marriages_according_to_Marriage_Registration_Ordinance
+  - marry_without_the_permission_of_parents
+  - Number_of_witnesses_for_marriage
+  - Documents_to_register_a_marriage
+  - marriage_registration_fee
+  - registration_fee_for_marriages_registering_outside_the_office
+  - get_marriage_certificate
+  - living_together
+  - witnesses_for_marriages
+  - necessity_of_witness_in_a_marriage
+  - family_member_as_a_witness
+  - Marriage_documents_SL_person_and_non_SL_person
+  - cancel_marriage_registration
+  - divorce_after_marriage_time_duration
+  - validation_of_marriage_without_registration
+  - second_marriage_registration
+  - break_marriage_after_engagement
+  - necessity_of_marriage_registration
+  - get_a_copy_of_marriage_certificate_in_SL
+  - subsisting_prior_marriage_according_to_the_marriage_registration_ordinance
+  - reasons_for_no_kandyan_marriage_shall_be_valid
+  - permitted_contract_for_Muslims_marriage
+  - true_meaning_of_marriage
+  - define_marriage
+  - marriage_should_contains
+  - why_marriage_is_legal
+  - financial_benefits_of_marriages
+  - married_vs_single
+  - copy_of_marriage_certificate
+  - get_original_marriage_certificate
+  - rules_register_a_marriage
+  - witness_as_wife
+  - witness_as_husband
+  - marriage_certificate_required
+  - Necessity_of_marriage_certificate
+  - Time_to_marriage
+  - husband_wife_same_crime
+  - marry_sister_brother
+  - marry_myself
+  - marry_dead_person
+  - kill_my_husband
+  - marry_animal
+  - good_husband
+  - husbands_love
+  - good_wife
+  - protect_marriage_life
+  - two_wives_at_once
+  - children_marriage
+  - muslim_4_wives
+  - what_is_divorce
+  - grounds_for_divorce_under_the_ordinance
+  - according_to_kandyan_law_reasons_for_divorce
+  - what_are_the_allowances_for_divorce
+  - situation_that_divorce_is_not_suitable
+  - how_to_divorce_my_wife
+  - documents_which_are_needed_to_get_divorce
+  - how_long_does_it_take_to_get_a_divorce_if_both_parties_agree
+  - process_of_divorce
+  - how_do_i_get_divorce_for_free
+  - how_to_divorce_my_cheating_husband
+  - how_file_a_divorce_case
+  - who_gets_the_house_in_a_divorce
+  - what_will_be_to_my_insurance_after_divorce
+  - can_my_wife_take_my_house_after_divorce
+  - divorce_rate_in_sri_lanka
+  - does_divorce_make_me_happy
+  - will_divorce_hurt_my_child
+  - are_divorces_free
+  - custody_of_the_children_in_a_divorce
+  - what_is_a_marital_settlement_agreement_in_a_divorce
+  - what_happens_to_my_pension_after_divorce
+  - do_i_need_to_divide_my_pension_after_divorce
+  - can_i_claim_child_benefit_if_separated
+  - do_i_have_to_pay_child_support_if_my_ex_remarries
+  - how_long_after_divorce_can_you_claim_money
+  - who_will_get_custody_of_the_child_after_divorce
+  - are_divorce_records_public_record
+  - who_can_know_If_I_get_divorced
+  - how_many_years_do_you_have_to_be_separated_to_be_legally_divorced
+  - what_happens_after_divorce_papers_are_signed
+  - can_my_husband_divorce_me_without_me_knowing
+  - what_happens_if_spouse_ignores_divorce
+  - can_a_judge_deny_a_divorce
+  - are_we_automatically_divorced_after_5_years
+  - how_can_i_get_a_quick_divorce
+  - how_do_I_tell_my_husband_i_want_a_divorce
+  - is_there_a_legal_way_to_tell_my_wife_about_divorce
+  - what_is_the_legal_way_of_notifying_my_wife_i_want_to_divorce
+  - can_I_get_a_divorce_if_my_spouse_will_not_sign
+  - how_to_find_out_if_I_am_legally_divorced
+  - what_happens_if_one_spouse_does_not_want_a_divorce
+  - who_pays_for_a_divorce
+  - do_I_have_to_answer_a_divorce_summons
+  - how_can_I_legally_stop_divorce
+  - how_much_does_a_divorce_cost_if_both_parties_agree
+  - what_is_the_cheapest_way_to_get_a_divorce
+  - is_the_wife_entitled_to_half_of_everything_in_a_divorce
+  - what_is_ex_wife_entitled_to_after_divorce
+  - can_I_sell_my_house_before_divorce
+  - can_i_refuse_a_divorce
+  - can_wife_stay_in_house_after_divorce
+  - do_I_have_to_pay_my_wifes_divorce_costs
+  - can_I_make_my_husband_pay_for_divorce
+  - how_do_I_respond_to_a_divorce_complaint
+  - can_I_stay_without_responding_to_divorce_complaint
+  - types_of_alimony
+  - procedure_for_divorce_case
+  - How_to_prove_uncurable_sexual_disability
+  - uncurable_sexual_disability
+  - reasons_for_exhibit_against_malicious_desertion
+  - fair_reasons_for_accepted_malicious_desertion
+  - factors_need_to_prove_malicious_desertion
+  - main_points_of_malicious_desertion
+  - malicious_desertion
+  - adultery
+  - How_to_prove_adultery
+  - needs_for_interpret_adultery
+  - How_to_file_a_divorce_case
+
+
+  - steps_to_getting_a_divorce
+  - fair_divorce
+  - Can_I_marry_after_my_wife_dies
+  - length_of_marriage_affect_divorce_settlement
+  - lose_pension_atter_remarry
+  - Can_I_date_while_going_through_a_divorce
+  - How_long_does_a_divorce_take_for_unreasonable_behaviour
+  - How_long_does_a_divorce_petition_take
+  - ex_wifes_entitle
+
+
+  - how_to_negotiate_a_divorce
+  - assets_during_a_divorce
+  - buy_a_car_during_divorce
+  - marital_misconduct
+  - Is_divorce_bad_for_my_credit
+  - Can_I_sue_my_ex_for_credit_card_debt
+  - Are_debts_split_in_divorce
+  - Can_my_ex_sell_our_house_without_my_consent
+  - Time_period_for_getting_spouse_pension_after_marriage
+  - Can_I_lose_my_ex_husbands_private_pension_if_I_remarry
+  - assets_in_a_divorce
+  - choose_a_good_divorce_lawyer
+  - When_I_can_start_dating_after_a_divorce
+  - Procedure_for_Filing_Divorce_Papers
+  - Can_I_divorce_my_husband_because_he_doesnt_like_to_my_fashions
+  - Can_I_divorce_my_husband_because_he_doesnt_like_to_my_studies_higher_studies
+  - Can_I_provide_a_lie_as_a_reason_for_divorce
+  - Do_I_need_a_reason_to_divorce
+  - Do_I_have_to_respond_to_divorce_papers
+  - Can_I_get_legal_aid_for_divorce
+  - both_parties_need_a_solicitor_in_divorce
+  - marital_property
+
+  - Do_I_have_to_sell_my_house_in_a_divorce
+  - separate_my_credit_after_divorce
+  - Can_my_husband_kick_me_out_of_the_house_we_rent
+  - harassment_during_a_divorce
+  - joint_mortgage_when_you_divorce
+
+
+
+  - parents_sign_as_witness
+  - limitations_to_be_a_witness
+  - documents_srilankan_nonsrilakan_marriage
+  - nonsrilakan_marriage_other
+
+  - minimum_age_marraige
+  - custody_mother_for_girl_father_for_boy
+  - guess_what_the_final_decision
+  - legal_basis_for_pension_after_divorce
+  - How_about_children
+
+  - What_is_a_legal_separation
+  - details
+
+  - same_marriage_registered_two_countries
+  - can_I_know_more
+
+  - spouse_refuses_divorce
+  - marital_offences
+
+
+
+
+
+  - kathi_divorce_see_child
+  - kathi_reported_useless
+
+  - divorce_certificate_after_filing_the_divorce_case
+  - Naisai_absolute_verdict
+
+  - valid_unregistered_marriages
+  - further_about_unregistered_marriages
+
+  - get_Naisai_verdict
+  - how_long_naisai_verdict
+
+  - husbands_property_devides
+  - further_about_property
+
+  - divorce_report_are_public
+  - check_others_divorce_report
+
+  - how_long_to_remarry_after_divorce
+  - event_bilateral_hearing
+
+  - get_first_marriage_certificate_after_divorce
+  - registrars_office_know_about_marriage_certificates
+
+
+
+
+  - divorce_which_marriage_certificate
+  - need_for_divorce_marriage_certificate_issued_from_the_Divisional_Secretariat?
+
+  - one_sided_divorce_other_party_absent
+  - divorce_absence_of_another_party
+
+  - divorce_consent_of_both_parties
+  - divorce_married_under_general_law
+
+
+actions:
+
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+
+
+- utter_age_for_marriage
+- utter_condition_for_marriage
+- utter_laws_and_policies_for_marriage
+- utter_marriage_types
+- utter_deega_marriage
+- utter_binna_marriage
+- utter_muslim_marriage
+- utter_how_many_marriages_muslim_men_can_do
+- utter_how_many_marriages_muslim_women_can_do
+- utter_reason_to_cancel_marriage
+- utter_general_law_under_marriage
+- utter_laws_influenced_to_the_general_law_of_marriage
+- utter_Weatherly_v_Weatherly_case
+- utter_difference_between_marriage_contract_and_commercial_contract
+- utter_Marriage_Registration_Ordinance
+- utter_act_of_Kandyan_Marriage_and_Divorce_law
+- utter_act_of_Muslim_Marriage_and_Divorce_law
+- utter_minimum_age_according_to_Marriage_Registration_Ordinance_No_19_of_1907
+- utter_minimum_age_according_to_the_Muslim_marriage
+- utter_prohibited_degrees_of_marriages_according_to_Marriage_Registration_Ordinance
+- utter_marry_without_the_permission_of_parents
+- utter_Number_of_witnesses_for_marriage
+- utter_Documents_to_register_a_marriage
+- utter_marriage_registration_fee
+- utter_registration_fee_for_marriages_registering_outside_the_office
+- utter_get_marriage_certificate
+- utter_living_together
+- utter_witnesses_for_marriages
+- utter_necessity_of_witness_in_a_marriage
+- utter_family_member_as_a_witness
+- utter_Marriage_documents_SL_person_and_non_SL_person
+- utter_cancel_marriage_registration
+- utter_divorce_after_marriage_time_duration
+- utter_validation_of_marriage_without_registration
+- utter_second_marriage_registration
+- utter_break_marriage_after_engagement
+- utter_necessity_of_marriage_registration
+- utter_get_a_copy_of_marriage_certificate_in_SL
+- utter_subsisting_prior_marriage_according_to_the_marriage_registration_ordinance
+- utter_reasons_for_no_kandyan_marriage_shall_be_valid
+- utter_permitted_contract_for_Muslims_marriage
+- utter_true_meaning_of_marriage
+- utter_define_marriage
+- utter_marriage_should_contains
+- utter_why_marriage_is_legal
+- utter_financial_benefits_of_marriages
+- utter_married_vs_single
+- utter_copy_of_marriage_certificate
+- utter_get_original_marriage_certificate
+- utter_rules_register_a_marriage
+- utter_witness_as_wife
+- utter_witness_as_husband
+- utter_marriage_certificate_required
+- utter_Necessity_of_marriage_certificate
+- utter_Time_to_marriage
+- utter_husband_wife_same_crime
+- utter_marry_sister_brother
+- utter_marry_myself
+- utter_marry_dead_person
+- utter_kill_my_husband
+- utter_marry_animal
+- utter_good_husband
+- utter_husbands_love
+- utter_good_wife
+- utter_protect_marriage_life
+- utter_two_wives_at_once
+- utter_children_marriage
+- utter_muslim_4_wives
+- utter_what_is_divorce
+- utter_grounds_for_divorce_under_the_ordinance
+- utter_according_to_kandyan_law_reasons_for_divorce
+- utter_what_are_the_allowances_for_divorce
+- utter_situation_that_divorce_is_not_suitable
+- utter_how_to_divorce_my_wife
+- utter_documents_which_are_needed_to_get_divorce
+- utter_how_long_does_it_take_to_get_a_divorce_if_both_parties_agree
+- utter_process_of_divorce
+- utter_how_do_i_get_divorce_for_free
+- utter_how_to_divorce_my_cheating_husband
+- utter_how_file_a_divorce_case
+- utter_who_gets_the_house_in_a_divorce
+- utter_what_will_be_to_my_insurance_after_divorce
+- utter_can_my_wife_take_my_house_after_divorce
+- utter_divorce_rate_in_sri_lanka
+- utter_does_divorce_make_me_happy
+- utter_will_divorce_hurt_my_child
+- utter_are_divorces_free
+- utter_custody_of_the_children_in_a_divorce
+- utter_what_is_a_marital_settlement_agreement_in_a_divorce
+- utter_what_happens_to_my_pension_after_divorce
+- utter_do_i_need_to_divide_my_pension_after_divorce
+- utter_can_i_claim_child_benefit_if_separated
+- utter_do_i_have_to_pay_child_support_if_my_ex_remarries
+- utter_how_long_after_divorce_can_you_claim_money
+- utter_who_will_get_custody_of_the_child_after_divorce
+- utter_are_divorce_records_public_record
+- utter_who_can_know_If_I_get_divorced
+- utter_how_many_years_do_you_have_to_be_separated_to_be_legally_divorced
+- utter_what_happens_after_divorce_papers_are_signed
+- utter_can_my_husband_divorce_me_without_me_knowing
+- utter_what_happens_if_spouse_ignores_divorce
+- utter_can_a_judge_deny_a_divorce
+- utter_are_we_automatically_divorced_after_5_years
+- utter_how_can_i_get_a_quick_divorce
+- utter_how_do_I_tell_my_husband_i_want_a_divorce
+- utter_is_there_a_legal_way_to_tell_my_wife_about_divorce
+- utter_what_is_the_legal_way_of_notifying_my_wife_i_want_to_divorce
+- utter_can_I_get_a_divorce_if_my_spouse_will_not_sign
+- utter_how_to_find_out_if_I_am_legally_divorced
+- utter_what_happens_if_one_spouse_does_not_want_a_divorce
+- utter_who_pays_for_a_divorce
+- utter_do_I_have_to_answer_a_divorce_summons
+- utter_how_can_I_legally_stop_divorce
+- utter_how_much_does_a_divorce_cost_if_both_parties_agree
+- utter_what_is_the_cheapest_way_to_get_a_divorce
+- utter_is_the_wife_entitled_to_half_of_everything_in_a_divorce
+- utter_what_is_ex_wife_entitled_to_after_divorce
+- utter_can_I_sell_my_house_before_divorce
+- utter_can_i_refuse_a_divorce
+- utter_can_wife_stay_in_house_after_divorce
+- utter_do_I_have_to_pay_my_wifes_divorce_costs
+- utter_can_I_make_my_husband_pay_for_divorce
+- utter_how_do_I_respond_to_a_divorce_complaint
+- utter_can_I_stay_without_responding_to_divorce_complaint
+- utter_types_of_alimony
+- utter_procedure_for_divorce_case
+- utter_How_to_prove_uncurable_sexual_disability
+- utter_uncurable_sexual_disability
+- utter_reasons_for_exhibit_against_malicious_desertion
+- utter_fair_reasons_for_accepted_malicious_desertion
+- utter_factors_need_to_prove_malicious_desertion
+- utter_main_points_of_malicious_desertion
+- utter_malicious_desertion
+- utter_adultery
+- utter_How_to_prove_adultery
+- utter_needs_for_interpret_adultery
+- utter_How_to_file_a_divorce_case
+
+
+- utter_steps_to_getting_a_divorce
+- utter_fair_divorce
+- utter_Can_I_marry_after_my_wife_dies
+- utter_length_of_marriage_affect_divorce_settlement
+- utter_lose_pension_atter_remarry
+- utter_Can_I_date_while_going_through_a_divorce
+- utter_How_long_does_a_divorce_take_for_unreasonable_behaviour
+- utter_How_long_does_a_divorce_petition_take
+- utter_ex_wifes_entitle
+
+
+- utter_how_to_negotiate_a_divorce
+- utter_assets_during_a_divorce
+- utter_buy_a_car_during_divorce
+- utter_marital_misconduct
+- utter_Is_divorce_bad_for_my_credit
+- utter_Can_I_sue_my_ex_for_credit_card_debt
+- utter_Are_debts_split_in_divorce
+- utter_Can_my_ex_sell_our_house_without_my_consent
+- utter_Time_period_for_getting_spouse_pension_after_marriage
+- utter_Can_I_lose_my_ex_husbands_private_pension_if_I_remarry
+- utter_assets_in_a_divorce
+- utter_choose_a_good_divorce_lawyer
+- utter_When_I_can_start_dating_after_a_divorce
+- utter_Procedure_for_Filing_Divorce_Papers
+- utter_Can_I_divorce_my_husband_because_he_doesnt_like_to_my_fashions
+- utter_Can_I_divorce_my_husband_because_he_doesnt_like_to_my_studies_higher_studies
+- utter_Can_I_provide_a_lie_as_a_reason_for_divorce
+- utter_Do_I_need_a_reason_to_divorce
+- utter_Do_I_have_to_respond_to_divorce_papers
+- utter_Can_I_get_legal_aid_for_divorce
+- utter_both_parties_need_a_solicitor_in_divorce
+- utter_marital_property
+
+
+- utter_Do_I_have_to_sell_my_house_in_a_divorce
+- utter_separate_my_credit_after_divorce
+- utter_Can_my_husband_kick_me_out_of_the_house_we_rent
+- utter_harassment_during_a_divorce
+- utter_joint_mortgage_when_you_divorce
+
+- utter_yes_definitely
+- utter_above_18_years
+- utter_id_and_passport
+- utter_only_thing
+
+- utter_marriage_age
+- utter_good_day
+- utter_explain_marriage_age
+
+
+- utter_No_the_high_responsibility_is_with_the_judiciary
+- utter_we_often_cant
+
+- utter_no_right_to_pension_after_divorce
+- utter_pension_splits
+
+- utter_seperation_means
+- utter_more_about_separation
+
+- utter_you_can
+- utter_marry_divorce_in_two_countries
+
+- utter_refusal_for_divorce
+- utter_Three_marital_offense
+
+
+
+
+
+- utter_report_to_kathi
+- utter_kathi_board
+
+- utter_time_varies
+- utter_after_District_Judge_signed
+
+
+- utter_registration_not_mandatory
+- utter_significant_number_accepted
+
+- utter_discuss_naisai_with_lawyer
+- utter_time_taken_to_get_the_naisai
+
+- utter_yes_if_not_divorced
+- utter_if_not_divorced_rights
+
+
+
+
+
+
+
+
+
+
+- utter_publishable_to_society_divorce_report
+- utter_divorce_report_is_public_document
+
+- utter_remarry_after_divorce_verdict_finalized
+- utter_verdict_rescinded_three_months
+
+- utter_first_marriage_certificate_after_divorce
+- utter_marriage_certificate_copy_forwarded
+
+- utter_use_copy_of_marriage_certificate_for_divorce
+- utter_submit_a_copy_of_original
+
+- utter_other_party_address_in_divorce
+- utter_paste_summon_in_the_door
+
+- utter_consent_divorces_under_kandyan_law
+- utter_divorces_under_general_law_not_allow_consent_divorce
+
+
+templates:
+
+  utter_yes_definitely:
+  - text: "Yes, definitely"
+
+  utter_above_18_years:
+  - text: "He or she should be above 18 years old"
+
+  utter_only_thing:
+  - text: "It is only after staying in Sri Lanka for at least 5 days. Divorce documents are required if you are married before"
+
+  utter_id_and_passport:
+  - text: "Just ID and passport"
+
+
+  utter_marriage_age:
+  - text: "18 years old under general marriage law. Do you need more explanation?"
+
+  utter_good_day:
+  - text: "Have a good day!"
+
+  utter_explain_marriage_age:
+  - text: "The General Marriage and Divorce Ordinance No. 19 of 1907 applies. The General Marriage and Divorce Ordinance was amended by Act No. 18 of 1995. According to the common law, the minimum age for marriage is 18 years.
+Kandyan law is governed by the Kandyan Marriage and Divorce Act No 44 of 1952. So the minimum age for a woman is 16 and for a man 18.
+For Muslim laws, it is mentioned that the marriage of a girl below the age of 12 years requires the permission of the ‘Kaathi’. (Section 47 (1) (i) of the Act). Accordingly, a girl under the age of 12 years can marry with the permission of Kaathi.
+"
+
+
+
+  utter_No_the_high_responsibility_is_with_the_judiciary:
+  - text: "No, the high responsibility of the child is with the judiciary. The judiciary is looking at the welfare of the child."
+
+  utter_we_often_cant:
+  - text: "Sorry, we often can't."
+
+
+  utter_no_right_to_pension_after_divorce:
+  - text: "The wife has no right to her husband's pension after the divorce and vice versa."
+
+  utter_pension_splits:
+  - text: "The pension is split among children under 21"
+
+
+  utter_you_can:
+  - text: "You can.."
+
+  utter_marry_divorce_in_two_countries:
+  - text: "You can marry in two countries as well as divorce in two countries. For example. A divorcee in England who is divorced from the law of Sri Lanka.
+  your marriage in another country doesn't matter for marriage in Sri lanka.
+If you marry under Sri Lankan law and get divorced in another country,it doesn't valid in Sri Lanka.You must prove that divorce case under sri Lankan court.This process called 'resealing'."
+
+
+
+  utter_seperation_means:
+  - text: "Separation from the law is a court order for a married couple to avoid the dangers of being together such as Frequent drunkenness, abuse, sickness etc."
+
+  utter_more_about_separation:
+  - text: "Divorce can be filed after two years of legal separation.
+	Seven years separation from the law is deemed appropriate for divorce and
+	these three factors  must also be fulfilled.
+	Adultery
+	Incurable sexual impotence even before the marriage
+	Malicious abandonment"
+
+
+  utter_refusal_for_divorce:
+  - text: "Refusal does not apply if you can prove a marital offense. After considering the facts presented, the judiciary will issue an appropriate ruling."
+
+  utter_Three_marital_offense:
+  - text: "These 03 are called as marital offense
+Adultery
+Incurable sexual impotence even before the marriage
+Malicious abandonment"
+
+
+
+
+
+
+
+  utter_report_to_kathi:
+  - text: "Report it to the Kathi court"
+
+  utter_kathi_board:
+  - text: "Then You can complain to the Kathi board, if you can't get any help from there you can report to Court of Appeals"
+
+  utter_time_varies:
+  - text: "Time varies according to the facts of the case."
+
+  utter_after_District_Judge_signed:
+  - text: "After District Judge signs it, you can get the divorce"
+
+
+
+
+  utter_registration_not_mandatory:
+  - text: "Yes, registration is not mandatory for a marriage. There are three types of marriage in Sri Lanka.
+Registered Marriage
+Formal Marriages (Marriage only without registration)
+Marriages from residence and intercourse.
+"
+  utter_significant_number_accepted:
+  - text: "When a significant number of people ( minimum 7) provide evidence that they lived as husband and wife, it is considered as valid marriage."
+
+
+
+  utter_discuss_naisai_with_lawyer:
+  - text: "You have to discuss this with your lawyer"
+
+  utter_time_taken_to_get_the_naisai:
+  - text: "Naisai verdict can get within three months from the date of the judgment"
+
+
+
+  utter_yes_if_not_divorced:
+  - text: "yes, if she isn't divorced"
+
+  utter_if_not_divorced_rights:
+  - text: "If not divorced, she has a legal right to her husband's assets.Wife has legal rights to half of the assets are  and the other half is equally divided among children
+  "
+
+
+
+
+
+  utter_publishable_to_society_divorce_report:
+  - text: "yes. Those are publishable to society"
+
+  utter_divorce_report_is_public_document:
+  - text: "yes, It’s a public document"
+
+  utter_remarry_after_divorce_verdict_finalized:
+  - text: "Once the verdict is finalized, it can be the next day"
+
+  utter_verdict_rescinded_three_months:
+  - text: "the verdict will be rescinded three months after the date on which it was handed over to the other party"
+
+
+  utter_first_marriage_certificate_after_divorce:
+  - text: "No you can’t do that, because canceled divorce certificates are not issued by registrars."
+  utter_marriage_certificate_copy_forwarded:
+  - text: "A copy of the relevant divorce decree will be forwarded to the Registrar General by court."
+
+
+  utter_use_copy_of_marriage_certificate_for_divorce:
+  - text: "You can use a copy of the original marriage certificate."
+  utter_submit_a_copy_of_original:
+  - text: "The Procedure is to submit an original marriage certificate, in case if you lost that you can get a certificate copy from divisional secretary's office. Submit a copy of  original certificate and keep original certificate with you.
+  "
+
+
+  utter_other_party_address_in_divorce:
+  - text: "If you can't find the address of the other party you can't make a decision."
+  utter_paste_summon_in_the_door:
+  - text: "after pasting the summon in the door (present address)  of respondents by fiscal and submit a report to the court by mentioning that is believed as summons report was submitted to respondent."
+
+
+  utter_consent_divorces_under_kandyan_law:
+  - text: "According to Sri Lankan law, consent divorces are only allowed under Kandyan law."
+  utter_divorces_under_general_law_not_allow_consent_divorce:
+  - text: "If married under the common law, such as a malicious abandonment of the ordinary course of action, one person may file a case and the other party will not accept the facts and present the case.
+  "
+
+
+
+
+
+
+
+
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_age_for_marriage:
+  - text: "18 years old"
+
+  utter_condition_for_marriage:
+  - text: "- Age limit is more than 18 years old
+- If age is above 18 ,they can marry with or without permission of parents.
+- In muslim law, age limit for marriage is 12 & they can marry with the permission of their parents and kathi "
+
+  utter_laws_and_policies_for_marriage:
+  - text: "- Marriage Registration Ordinance, 1907; and Marriage Registration (Amendment) Act, 1995
+- Kandyan Marriage and Divorce Act, 1952; and Kandyan Marriage and Divorce (Amendment) Act, 1995
+- Muslim Marriage and Divorce Act, 1951
+- Civil Procedure Code, 1889
+- Maintenance Act, 1999
+- Adoption of Children Ordinance, 1941; amended in 1992 "
+
+  utter_marriage_types:
+  - text: "- Deega Marriage
+- Binna Marriage "
+
+  utter_deega_marriage:
+  - text: "A marriage in which the wife joins the husband's family, where the wife may only inherit a lesser or no share of her family property. Her dowry is incorporated into the wealth of the husband's family."
+
+  utter_binna_marriage:
+  - text: "A marriage in which the husband joins the wife's family, where the wife may inherit her family property in equal or more portion. The husband does not inherit his wife's estate which transfers to their children on her death. The husband however may administer her holdings and has life interest on her estate."
+
+  utter_muslim_marriage:
+  - text: "In muslim law, age limit for marriage is 12 & they can marry with the permission of the parents and kathi"
+
+  utter_how_many_marriages_muslim_men_can_do:
+  - text: "4 marriages"
+
+  utter_how_many_marriages_muslim_women_can_do:
+  - text: "1 marriage"
+
+  utter_reason_to_cancel_marriage:
+  - text: "- When age is less than 18
+  - When there is forbidden relationship between  people"
+
+  utter_general_law_under_marriage:
+  - text: "The general law is accessed not only  by the low country sinhala people who as a result of our colonial history do not have a legally recognized customary law but also by Tamils
+  (weather they are governed by the Thesawalamai  or not) and by kandyan  who have a choice of marrying under the kandyan law or the general law."
+
+  utter_laws_influenced_to_the_general_law_of_marriage:
+  - text: "Roman Dutch law and English law "
+
+  utter_Weatherly_v_Weatherly_case:
+  - text: "Marriage is not a mere ordinary private contract between the parties, It is a contract creating the status and given rise to the important consequences directly affecting society at large. It lies at the root of civilized society"
+
+  utter_difference_between_marriage_contract_and_commercial_contract:
+  - text: "Marriage cannot be entered into subject to condition.
+   The objectives marriage cannot be changed in terms of rights and duties.
+   Mutual rights of the husband and wife are fixed by law not by agreement."
+
+  utter_Marriage_Registration_Ordinance:
+  - text: "No 19 of 1907 (MRO)
+   - The 1907 Marriage Registration Ordinance constitutes  the general law of Sri lanka. The ordinance applies to marriage between Tamils and between individuals of differing ethics and religious communities. Kandyan Sinhalese may choose to be governed by the general law or Kandyan law. The ordinance does not govern marriages contracted between Muslims."
+
+  utter_act_of_Kandyan_Marriage_and_Divorce_law:
+  - text: "No 44 of 1952(KMDA)"
+
+  utter_act_of_Muslim_Marriage_and_Divorce_law:
+  - text: "No 13 of 1951(MMDA)"
+
+  utter_minimum_age_according_to_Marriage_Registration_Ordinance_No_19_of_1907:
+  - text: "Section 15(minimum age) - No marriage contracted after the coming into force this section shall be valid unless both parties to the marriage have completed eighteen years of age."
+
+  utter_minimum_age_according_to_the_Muslim_marriage:
+  - text: "There is no concept of minimum age of marriage, but the section 23 of the MMDA - Marriage of a girl who is not attained the age of twelve not not to be registered without quazi ‘s permission. This section could be read to understand that the consent of the quazi is required for a marriage with a girl below the age of 12."
+
+  utter_prohibited_degrees_of_marriages_according_to_Marriage_Registration_Ordinance:
+  - text: "Where either party shall be directly descended from the other
+Where the female shall be sister of the the male either by the full or half - blood, or the daughter of his brother or of his sister by the full or half -blood, or a descendant from either of them, or a daughter of his wife by another father, or his son’s or gardanson’s or father’s  or grandfather’s widow
+Where the male shall brother of the female either by the full or half-blood, or the son of her brother or sister by the full  or half-blood, or descendant from, either of them, or the son of her husband by another mother, or her deceased daughter’s or granddaughter or mother’s  or grandmother’s husband."
+
+  utter_marry_without_the_permission_of_parents:
+  - text: "If you are above 18 years, you can marry without permission. "
+
+  utter_Number_of_witnesses_for_marriage:
+  - text: "Two witnesses with photo IDs ( national ID) should also be present for marriage."
+
+  utter_Documents_to_register_a_marriage:
+  - text: "Birth certificate.
+Valid 10-year Passport or national identity card.
+If single, an affidavit confirming marital status from a solicitor.
+If divorced, a decree absolute with court stamp of the previous marriage and an affidavit to declare marital status stamped by a notary."
+
+  utter_marriage_registration_fee:
+  - text: "marriage registration fees is  Rs. 4,000."
+
+  utter_registration_fee_for_marriages_registering_outside_the_office:
+  - text: " marriage registration fees is  Rs. 4,000. Accordingly, for marriages registering outside the office of the registrar a fee of Rs. 5,000 will be charged "
+
+  utter_get_marriage_certificate:
+  - text: "Application for marriage certificate can obtain from any Divisional Secretariat, however, Refer the application to the Divisional Secretariat of the area where the registration took place and fill in the application form with the relevant information.
+"
+
+  utter_living_together:
+  - text: "It's a bit complex. There is no direct law preventing living together in Sri Lanka."
+
+  utter_witnesses_for_marriages:
+  - text: "Anyone can be a witness provided they are over 18 years of age and they were actually present at the ceremony and witnessed the bride and groom sign the document. The two witnesses are the official legal witnesses to the marriage under law and their presence serves a legal purpose.
+"
+
+  utter_necessity_of_witness_in_a_marriage:
+  - text: "The two witnesses are the official legal witnesses to the marriage under law and their presence serves a legal purpose.
+"
+
+  utter_family_member_as_a_witness:
+  - text: "relatives other than the mother father sisters and brothers can sign, they must be over 18 years of age and were actually present at the ceremony"
+
+  utter_Marriage_documents_SL_person_and_non_SL_person:
+  - text: "1.Bachelor Certificates should be obtained by the Sri Lanka Citizen . (Procedure is the same as above.)
+2. The other party to the marriage is required to obtain a Bachelor Certificate from the Embassy of his/her country.
+For further details please contact the Consular Division of this Mission.
+"
+
+  utter_cancel_marriage_registration:
+  - text: "There is no provision for cancellation of marriage as it was the registered marriage. Yes . Once the registration is overrated, then it will be considered as they are legally wedded. Certificate cannot be canceled."
+
+  utter_divorce_after_marriage_time_duration:
+  - text: "The minimum length of time you must be married for before you can get divorced is one year. If you've been married for under a year, you can have your petition drafted and ready to send, but you cannot submit it until a year after your marriage date.
+"
+
+  utter_validation_of_marriage_without_registration:
+  - text: "Absence of registration of marriage does not make it illegal. Your marriage is valid for all the legal and practical reasons."
+
+  utter_second_marriage_registration:
+  - text: "When you registered your second marriage, you are required to disclose about first marriage in the application for marriage registration. Only after giving a divorce to your first husband you can register your second marriage.
+"
+
+  utter_break_marriage_after_engagement:
+  - text: "Breaking up of an engagement is basically a breach of contract in legal sense and a suit for damages for that can lie.
+"
+  utter_necessity_of_marriage_registration:
+  - text: " It is mandatory to register your marriage."
+
+  utter_get_a_copy_of_marriage_certificate_in_SL:
+  - text: "To obtain a copy of a marriage certificate you will need to submit a request to the Divisional Secretariat of the area where the registration took place.
+The application form is available at the Divisional Secretariat.
+Submit the completed form at pay the application fee.
+"
+
+  utter_subsisting_prior_marriage_according_to_the_marriage_registration_ordinance:
+  - text: "Married person can not contract a second marriage while the first marriage is subsisting.
+
+ "
+
+  utter_reasons_for_no_kandyan_marriage_shall_be_valid:
+  - text: "If one party there to has contracted a prior marriage or If the other party to such prior marriage is still living. Unless such marriage has been lawfully dissolved or declared valid"
+
+  utter_permitted_contract_for_Muslims_marriage:
+  - text: "It is permitted to contract a valid marriage provided he has the financial means and capability to fulfill his matrimonial obligations of all 4 wives "
+
+  utter_true_meaning_of_marriage:
+  - text: "Generally, everyone understands that the meaning of marriage is when two people make a public pledge or commitment to live together and share their lives in a way that is recognized legally, socially and sometimes religiously.
+"
+
+  utter_define_marriage:
+  - text: "A commonly accepted and encompassing definition of marriage is the following: a formal union and social and legal contract between two individuals that unites their lives legally, economically, and emotionally. Being married also gives legitimacy to sexual relations within the marriage.
+"
+
+  utter_marriage_should_contains:
+  - text: "There are many factors that contribute to a satisfying marriage/relationship such as; Love, Commitment, Trust, Time, Attention, Good Communication including Listening , Partnership, Tolerance, Patience, Openness, Honesty, Respect, Sharing, Consideration, Generosity, Willingness/Ability to Compromise, Constructive."
+
+  utter_why_marriage_is_legal:
+  - text: "Today, the underlying concept that marriage is a legal contract still remains, but due to changes in society the legal obligations are not the same. Marriage is chiefly regulated by the states.Entering into a marriage changes the legal status of both parties and gives both husband and wife new rights and obligations.
+"
+
+  utter_financial_benefits_of_marriages:
+  - text: "While income taxes can be better or worse for a married couple, Social Security, insurance, estate tax, capital gains and employee benefits can all work in your financial favor. Knowing the financial benefits of marriage is important but understanding and agreeing on your financial values is even more so.
+"
+
+  utter_married_vs_single:
+  - text: "It is different from one person to another person. Some People like to say that being single is better than being married. But some people like to live with wife and  the children."
+
+
+  utter_copy_of_marriage_certificate:
+  - text: "To obtain a copy of a marriage certificate you will need to submit a request to the Divisional Secretariat of the area where the registration took place.
+The application form is available at the Divisional Secretariat.
+Submit the completed form at pay the application fee.
+"
+
+  utter_get_original_marriage_certificate:
+  - text: "The easiest way to get your marriage certificate is to visit your local records office or courthouse and make the request in person. The process should only take a few minutes to have the certificate printed out and, if needed, certified."
+
+  utter_rules_register_a_marriage:
+  - text: "Application form duly signed by both the parties.
+Documentary evidence of the date of birth of parties.
+Residential proof of both the parties.
+"
+
+  utter_witness_as_wife:
+  - text: "No she can’t"
+
+  utter_witness_as_husband:
+  - text: "No he can't"
+
+  utter_marriage_certificate_required:
+  - text: "Marriage registration is required to prove that you are legally married to someone. Marriage certificate is also required for obtaining passport, changing your maiden name etc. It's very important for women to get their marriage registered immediately after marriage as it establishes their legal claim as a wife."
+
+  utter_Necessity_of_marriage_certificate:
+  - text: "Yes, It is necessary to get some opportunities. Such as, filing taxes jointly can be greatly beneficial for married couples, Change your name , change your address "
+
+  utter_Time_to_marriage:
+  - text: "U can apply for the registration of your marriage at any time but you must have the valid proof of your marriage and age according to the marriage law."
+
+  utter_husband_wife_same_crime:
+  - text: "Yes.  a married couple may be both charged and convicted of a crime even if one party admits or accepts blame."
+
+  utter_marry_sister_brother:
+  - text: "No you can’t"
+
+  utter_marry_myself:
+  - text: "No you can’t"
+
+  utter_marry_dead_person:
+  - text: "No you can’t"
+
+  utter_kill_my_husband:
+  - text: "No you can’t because it is an unforgivable punishment in Sri lanka"
+
+  utter_marry_animal:
+  - text: "No. You can only married human beings "
+
+  utter_good_husband:
+  - text: "-He communicates with you
+- He loves to spend time with you
+- He makes you smile and laugh.
+- He is supportive.
+- He is willing to teach you what he knows.
+- He is loyal.
+- He acknowledges his mistakes.
+- He protects and cares for you.
+"
+
+  utter_husbands_love:
+  - text: "He always thinks about you and he fulfills your needs "
+
+  utter_good_wife:
+  - text: "You always listen to the husband and fulfills his wants and needs"
+
+  utter_protect_marriage_life:
+  - text: "Understand each other"
+
+  utter_two_wives_at_once:
+  - text: "No you can’t. You can only marry one wife at one time."
+
+  utter_children_marriage:
+  - text: "No you can't get married. There is an age limit to married "
+
+  utter_muslim_4_wives:
+  - text: "Yes you can. But you need to be able to maintain four women."
+
+  utter_what_is_divorce:
+  - text: "- A divorce is a legal action between married people to terminate their marriage relationship. It can be referred to as dissolution of marriage and is basically, the legal action that ends the marriage before the death of either spouse. "
+
+  utter_grounds_for_divorce_under_the_ordinance:
+  - text: "-  adultery
+  - malicious desertion
+  - incurable impotence at the time of marriage."
+
+  utter_according_to_kandyan_law_reasons_for_divorce:
+  - text: "-  adultery by the wife
+ -adultery by the husband,coupled with incest or gross cruelty
+ -continued and complete desertion for two years
+ -inability to live together, of which actual separation from bed and board for one year is the test
+ -mutual consent."
+
+  utter_what_are_the_allowances_for_divorce:
+  - text: "- Wife or husband has to pay compensation."
+
+  utter_situation_that_divorce_is_not_suitable:
+  - text: " If Other party is dead"
+
+  utter_how_to_divorce_my_wife:
+  - text: " Oh no! This is not the time, Try to live together or get help from the lawyer."
+
+  utter_documents_which_are_needed_to_get_divorce:
+  - text: "- The original or certified copy of the marriage certificate -Addresses of the parties -A proxy should be filed where you give us the power to represent you in court -To file the Plaint details of the marriage up to the separation -Details of the children (Name and Date of Birth) -If the Defendant is outside of Sri Lanka summons have to be outside Sri Lanka to that country. This has to be done through the Embassy of Sri Lanka"
+
+  utter_how_long_does_it_take_to_get_a_divorce_if_both_parties_agree:
+  - text: "- Once the papers have been filed with the court, the question, 'How long does an uncontested divorce take?' is completely out of the parties' hands. The amount of time it will take to finalize the divorce by having a judge approve and sign the judgment can take anywhere from six weeks to 12 months"
+
+  utter_process_of_divorce:
+  - text: "A divorce starts with a divorce petition. The petition is written by one spouse (the petitioner) and served on the other spouse. The petition is then filed in a state court in the county where one of the spouses resides.The petition includes important information regarding the marriage"
+
+  utter_how_do_i_get_divorce_for_free:
+  - text: "You can't get divorce for free. You should  give some allowances for other party."
+
+  utter_how_to_divorce_my_cheating_husband :
+  - text: "- Divorce may be sought on the following grounds
+-adultery by the wife
+-adultery by the husband, coupled with incest or gross cruelty
+-continued and complete desertion for two years
+-inability to live together, of which actual separation from bed and board for one year is the test and mutual consent."
+
+  utter_how_file_a_divorce_case:
+  - text: " A divorce starts with a divorce petition. The petition is written by one spouse (the petitioner) and served on the other spouse. The petition is then filed in a state court in the county where one of the spouses resides"
+
+  utter_who_gets_the_house_in_a_divorce:
+  - text: "A judge can award the marital home to one spouse as part of property distribution in your divorce. This assumes that the house qualifies as “marital” or “community” property and not one spouse's separate property. A court will look at several factors to decide who gets the house."
+
+  utter_what_will_be_to_my_insurance_after_divorce:
+  - text: "It is depend on the decision of the judgement"
+
+  utter_can_my_wife_take_my_house_after_divorce:
+  - text: "Marital property includes all property either spouse bought during the marriage. It does not matter whose name is on the title. For example, if a couple bought a home, but only the husband's name was on the deed, the wife would still be entitled to some of the value of the home if they were to get a divorce"
+
+  utter_divorce_rate_in_sri_lanka:
+  - text: "The divorce rate is reported to be approximately 1.5% of the population in Sri Lanka"
+
+  utter_does_divorce_make_me_happy:
+  - text: "One of the best long-term studies of divorce found that divorce, in and of itself, generally does not lead to a better life. Some people are happier as a result of divorce. One study found that when individuals in a low-conflict marriage divorced, they experienced a decrease in happiness, on average"
+
+  utter_will_divorce_hurt_my_child:
+  - text: "Divorce may increase the risk for mental health problems in children and adolescence. Regardless of age, gender, and culture, studies show that children of divorced parents experience increased psychological problems"
+
+  utter_are_divorces_free:
+  - text: " You can only get a free divorce if the court agrees to waive your divorce filing fee. Contact your local county courthouse clerk and ask about pro se litigant divorcerequirements. You can only get a fee waiver if you and your spouse are financially unable to pay the filing fee for financial hardship reasons"
+
+  utter_custody_of_the_children_in_a_divorce:
+  - text: "The parents must decide on the custody of any minor children. Custody is divided into physical custody (where will the children live) and legal custody (who will make important decisions regarding the children's health, education, etc.). Both physical and legal custody can be either joint or sole. Even if one parent will have sole physical custody, the other parent still has visitation rights, if requested.
+Custody of adult children is not at issue during the divorce process."
+
+  utter_what_is_a_marital_settlement_agreement_in_a_divorce:
+  - text: "A marital settlement agreement spells out the terms of the divorce and the relationship between the two spouses after the divorce. These agreements usually cover property division, child custody, child plans, debt division, spousal support and any other relevant issues related to the divorce"
+
+  utter_what_happens_to_my_pension_after_divorce:
+  - text: " The decision is taken by law"
+
+  utter_do_i_need_to_divide_my_pension_after_divorce:
+  - text: "- It is depend on the situation of the case and it is taken by the law"
+
+  utter_can_i_claim_child_benefit_if_separated:
+  - text: "First you meet a lawyer and get advices because it is bit complex"
+
+  utter_do_i_have_to_pay_child_support_if_my_ex_remarries:
+  - text: "No"
+
+  utter_how_long_after_divorce_can_you_claim_money:
+  - text: "It depends on the judgement"
+
+  utter_who_will_get_custody_of_the_child_after_divorce:
+  - text: "Ancient Roman Dutch Law recognized father’s preferential right towards the guardnership of a child. But now mothers can claim guardianship of children. If court think that both father and mother are not suitable for the betterment of child court would decide another better guardian such as grandparents"
+
+  utter_are_divorce_records_public_record:
+  - text: "No. Divorce records are kept in the relevant court but are not made public."
+
+  utter_who_can_know_If_I_get_divorced:
+  - text: "- Yes,  might have to produce witness in your divorce case in order to prove your innocence. People might know that you are having a divorce if those witnesses are not silent about it in the society. If you need a secret divorce you can talk with your lawyer and take necessary steps to keep it a secret."
+
+  utter_how_many_years_do_you_have_to_be_separated_to_be_legally_divorced:
+  - text: "You have lived separately for more than two years and your husband or wife consents to the divorce. This is often called a 'no-fault' divorce. You can have had periods of living together as long as they do not add up to more than six months and you have been apart for least two years altogether"
+
+  utter_what_happens_after_divorce_papers_are_signed:
+  - text: "A divorce decree is a legal document that denotes a court has dissolved your marriage. When the divorce papers are signed, it is very important to re-read the decree for a number of reasons.When divorces papers are signed and a court issues a decree, the judge may make a mistake within the document"
+
+  utter_can_my_husband_divorce_me_without_me_knowing:
+  - text: "The basic answer to the question is yes, you can file for divorce without the other party knowing, but the divorce cannot be finalized without their knowledge. Youcan, however, file a divorce and settle the matter without the spouse's consent. Both parties don't need to agree on the divorce in order for it to proceed"
+
+  utter_what_happens_if_spouse_ignores_divorce:
+  - text: "If you don't respond to the papers once you've received notice, your spouse asks the court to give him a final hearing on the divorce. A default judgment occurs when one spouse was summoned to court but didn't respond, leaving the judge to award the divorce based on the facts shown on the filing spouse's petition"
+
+  utter_can_a_judge_deny_a_divorce:
+  - text: "Most states have some grounds for divorce that require the person filing for divorceto prove that his spouse committed some kind of marital misconduct, such as adultery, cruelty or abandonment. If his defense is successful, the court will deny the divorce because you failed to prove the fault ground you alleged."
+
+  utter_are_we_automatically_divorced_after_5_years:
+  - text: "Divorce is never automatic. You and your spouse can live separately for years, but you can't legally move on with your lives until you bring the court in on the process by filing a petition or complaint for divorce. However, doing so after a lengthy separation can streamline and simplify that process "
+
+  utter_how_can_i_get_a_quick_divorce:
+  - text: "- adultery by the wife;
+-adultery by the husband, coupled with incest or gross cruelty;
+-continued and complete desertion for two years;
+-inability to live together, of which actual separation from bed and board for one year is the test; and.
+-mutual consent."
+
+  utter_how_do_I_tell_my_husband_i_want_a_divorce:
+  - text: "You should tell him the reason , that you want to divorse and get help from the lawyer."
+
+  utter_is_there_a_legal_way_to_tell_my_wife_about_divorce:
+  - text: "Yes . You can get help from the lawyer and handle the case related to the divorse"
+
+  utter_what_is_the_legal_way_of_notifying_my_wife_i_want_to_divorce:
+  - text: "You can get help from the lawyer and handle the case related to the divorse."
+
+  utter_can_I_get_a_divorce_if_my_spouse_will_not_sign:
+  - text: "No you can’t , But the husband or wife dies the marriage is invalid.
+If your spouse won't sign divorce papers voluntarily, the only way to get divorced is through the court system. Like it or not, your spouse can't ignore a judge. If your spouse doesn't answer court papers, there are consequences."
+
+  utter_how_to_find_out_if_I_am_legally_divorced:
+  - text: "-Contact the legal notice department of the newspaper that serves the area where you and your spouse last lived together. ...
+-Call the courthouse in the county and state where you last lived together."
+
+  utter_what_happens_if_one_spouse_does_not_want_a_divorce:
+  - text: "What to Do If Your Spouse Filed an Uncontested Divorce & You Did Not Know? Adivorce doesn't start out as uncontested – it ends that way. In most states, uncontested simply means that spouses have reached an agreement on all issues so they can divorce without a trial."
+
+  utter_who_pays_for_a_divorce:
+  - text: "The petitioner always pays the divorce fees.
+Initially, the person filing for the divorce (known as the Petitioner) will always pay thedivorce filing fee. The court fees are paid to the court to prove the administration for the divorce process"
+
+  utter_do_I_have_to_answer_a_divorce_summons:
+  - text: "When you receive the divorce papers, your spouse is asking for a divorce. You need to respond to the divorce petition. You will be called the 'Respondent' in the case. ... If you do not file any Answer, the court still must wait for that protected period to run out before taking any decisions in your case"
+
+  utter_how_can_I_legally_stop_divorce:
+  - text: "-How to Stop a Divorce After the Papers Have Been Filed
+-Go to the courthouse where you filed your petition for divorce and speak with the clerk.
+-Complete the document.
+-Take the completed document and several additional copies back to the court clerk
+-Serve your spouse with a copy of your dismissal if your state requires it"
+
+  utter_how_much_does_a_divorce_cost_if_both_parties_agree:
+  - text: "A mutual consent divorce is likely cost anywhere from Rs. 5,000 to Rs. 50,000, depending on the complications of the case and the experience of the lawyer"
+
+  utter_what_is_the_cheapest_way_to_get_a_divorce:
+  - text: "To get a cheap divorce, you can start the process online and minimize the number of professional services you contract. In order to get the cheapest divorce possible, you must make sure that both you and your spouse are willing to work together and your divorce is uncontested"
+
+  utter_is_the_wife_entitled_to_half_of_everything_in_a_divorce:
+  - text: "All property of the husband and wife is considered “marital property.” This means that even property brought into the marriage by one person becomes marital property that will be split in half in a divorce. However, the court does not have to give each spouse one half of the property"
+
+  utter_what_is_ex_wife_entitled_to_after_divorce:
+  - text: "If you are divorced, but your marriage lasted 10 years or longer, you can receive benefits on your ex-spouse's record (even if they have remarried) if: You are unmarried; You are age 62 or older; Your ex-spouse is entitled to Social Security retirement or disability benefits"
+
+  utter_can_I_sell_my_house_before_divorce:
+  - text: "Selling your marital property before divorce gives you the chance to agree on how the houses assets will be divided beforehand. Selling your house early, before the divorce gives the chance to bury the hatchet and move on with your life quickly."
+
+  utter_can_i_refuse_a_divorce:
+  - text: "Contested Divorce
+In fact, every court offers no-fault divorce. However, even a no-fault divorce can end in one of two ways, it can be contested or uncontested. When a spouse refuses to sign divorce papers, the divorce is no longer placed on hold, but instead considered contested"
+
+  utter_can_wife_stay_in_house_after_divorce:
+  - text: "When a couple no longer lives under the same roof, selling the house may appear to be a practical next step. However, once a divorce petition is filed, state laws place certain restrictions on your ability to legally transfer the title of real estate without the consent of your spouse or the court"
+
+  utter_do_I_have_to_pay_my_wifes_divorce_costs:
+  - text: "- Divorce fees
+  -Regardless of how you choose to file for divorce, a court fee will need to be paid. This is because you will need the court to make your divorce binding."
+
+  utter_can_I_make_my_husband_pay_for_divorce:
+  - text: "- If your husband does not willingly give you money for your divorce, the only other way to force him to pay is to have a judge issue a court order. The bottom line is that you must file a motion with the court if you are to have any success in making your husband pay for some or all of your divorce fees"
+
+  utter_how_do_I_respond_to_a_divorce_complaint:
+  - text: "- Locate the deadline for the response on the divorce papers.
+-Contact the court in which your spouse filed the divorce papers.
+-Read over the divorce complaint.
+-Review the allegations you deny and gather disputing facts.
+-Check the court instructions for allegations you agree with, or admit to."
+
+  utter_can_I_stay_without_responding_to_divorce_complaint:
+  - text: "No you can't"
+
+
+  utter_types_of_alimony:
+  - text: "- Ask the guardianship of children
+- Ask maintenance for kids
+- Ask the property contribution
+- Ask compensation"
+
+  utter_procedure_for_divorce_case:
+  - text: "- File a divorce case in a court that is located in your living area
+- Can ask alimony
+- Take consultation for pacification"
+
+  utter_How_to_prove_uncurable_sexual_disability:
+  - text: "- Through medical evidences
+- If this situation can be cured by remedies divorce can’t be taken.
+- The disability is coming from before the marriage
+- The disability is uncurable"
+
+  utter_uncurable_sexual_disability:
+  - text: "Mental or physical sexual disability which is coming from before the marriage."
+
+  utter_reasons_for_exhibit_against_malicious_desertion:
+  - text: "- Willingness of both parties for desertion
+- There is fair reason for desertion such as unwillingness of one party for having kids"
+
+  utter_fair_reasons_for_accepted_malicious_desertion:
+  - text: "- Cruelty
+- Adultery
+- Mental illness"
+
+  utter_factors_need_to_prove_malicious_desertion:
+  - text: "- Intention to desertion
+- Physical desertion"
+
+  utter_main_points_of_malicious_desertion:
+  - text: "- Do not have fair reason
+- One party desert other party permanently
+- One party desert other party without considering the willingness"
+
+  utter_malicious_desertion:
+  - text: "One party desert other party for specific time period without showing reasons or without having an intention to come back."
+
+  utter_adultery:
+  - text: "Sexual behaviors happen during the marriage but not with the married partner."
+
+  utter_How_to_prove_adultery:
+  - text: "- Need to have powerful evidence such as,
+- Letters
+- Hotel records
+- Medical report about sexual illness
+- Evidence shown by eyes"
+
+  utter_needs_for_interpret_adultery:
+  - text: "- Adultery happen during the marriage
+- Adultery happen with opposite sexual party
+- Willing for adultery
+- Having a sexual behavior"
+
+  utter_How_to_file_a_divorce_case:
+  - text: "A divorce starts with a divorce petition. The petition is written by one spouse (the petitioner) and served on the other spouse. The petition is then filed in a state court in the county where one of the spouses resides."
+
+
+  utter_steps_to_getting_a_divorce:
+  - text: "The first step in the divorce process is filing a petition. Even where both spouses agree that they want to get divorced, one of them will have to be the one to file a petition with the court asking for the divorce. The petition will state the grounds for the divorce."
+
+  utter_fair_divorce:
+  - text: "Since guidelines on how to resolve many of the parental and financial matters required for divorce are either unclear or non-existent, it can be quite difficult to determine what's fair. Everyone has their own definition of what is fair, and fair doesn't always mean 50-50.There is more than meets the eye on resolving parenting plans, custody, alimony and assets/liabilities and these matters are too difficult to try to resolve on your own.The best way to reach a fair divorce settlement is to use mediation."
+
+  utter_Can_I_marry_after_my_wife_dies:
+  - text: "Yes you can. Legally speaking, the first marriage ends the moment the spouse dies and the person becomes free to remarry."
+
+  utter_length_of_marriage_affect_divorce_settlement:
+  - text: "The length of a marriage will affect how much property is awarded to each spouse upon divorce. Generally speaking, the longer the marriage, the more likely it is that the court will go beyond a simple 50/50 division of assets and instead award a greater portion of marital property to one of the spouses."
+
+  utter_lose_pension_atter_remarry:
+  - text: "Under most circumstances, a remarriage will not change how or if an ex-spouse continues to receive a portion of the military pension. Generally speaking, a pension will end only if the service member dies."
+
+  utter_Can_I_date_while_going_through_a_divorce:
+  - text: " Dating during divorce can negatively affect the amount of spousal support you receive. Under the law, you are considered to be legally married until a judge officially divorces you. If you are having sex with someone else before you aredivorced, you may technically be committing adultery."
+
+  utter_How_long_does_a_divorce_take_for_unreasonable_behaviour:
+  - text: "Another factor to bear in mind when presenting a divorce petition on the grounds of unreasonable behaviour is the time limit. This must be done within six months from the last incident of unreasonable behaviour, providing the parties continue to live together."
+
+  utter_How_long_does_a_divorce_petition_take:
+  - text: "The time it takes for the court to process a divorce ranges from around 6 months up to a number of years, given the divorcing couple's specific circumstances. After adivorce petition is prepared and sent to court, and all the procedures complied with, the applicant can apply for decree nisi."
+
+  utter_ex_wifes_entitle:
+  - text: "If you are divorced, but your marriage lasted 10 years or longer, you can receive benefits on your ex-spouse's record (even if they have remarried). If You are unmarried, You are age 62 or older, Your ex-spouse is entitled to Social Security retirement or disability benefits"
+
+  utter_how_to_negotiate_a_divorce:
+  - text: "- Understand Your Finances BEFORE You Open Your Mouth.
+- Make Sure You Understand What the Law Requires and Allows, Especially When it Comes to Your Kids.
+- Know What You Want.
+- Know What You Need.
+- Know What Your Spouse Wants and Needs."
+
+  utter_assets_during_a_divorce:
+  - text: "After a divorce order is signed and all the items have been legally divided, you're fairly free to do what you want with your possessions. You also can't sell property, especially for less than fair market value, just to get it off the balance sheets and reduce the amount of value your spouse gets out of it."
+
+  utter_buy_a_car_during_divorce:
+  - text: "Property purchased through financing usually has no or negligible value and a court will normally assign associated debts to the purchasing party. As a divorcing spouse, you may be distressed to learn that your future ex just bought something of value like a vehicle or new furniture."
+
+  utter_marital_misconduct:
+  - text: "In some states the spouse found guilty of marital misconduct will be adversely affected during property division, distribution of spousal support, or awarding attorney's fees. In states where misconduct is a factor, the following may be considered as behavior constituting marital misconduct: Adultery."
+
+  utter_Is_divorce_bad_for_my_credit:
+  - text: "Divorce doesn't directly hurt your credit, because your creditworthiness isn't dictated by your marital status. In fact, your credit reports don't have any mention of whether you are married or divorced. However, there are several indirect effects ofdivorce that can bring your score down."
+
+  utter_Can_I_sue_my_ex_for_credit_card_debt:
+  - text: "Yes, you can sue your ex. You can even sue your divorce lawyer for not insisting that all joint accounts be closed before the divorce decree was issued. ... You opened the account when you were married as either a joint account (where you were both owners) or in his name as the owner and you as an authorized user."
+
+  utter_Are_debts_split_in_divorce:
+  - text: "As part of the divorce judgment, the court will divide the couple's debts and assets. The court will indicate which party is responsible for paying which bills while dividing property and money. Generally, the court tries to divide assets and debts equally; however, they can also be used to balance one another"
+
+  utter_Can_my_ex_sell_our_house_without_my_consent:
+  - text: "If your ex-partner owns the family home in their name alone, you do not have an automatic legal right to remain there. They can Rent out or sell the home without your agreement or Take out a loan against the property without your consent."
+
+  utter_Time_period_for_getting_spouse_pension_after_marriage:
+  - text: "To receive a spouse benefit, you generally must have been married at least one year."
+
+  utter_Can_I_lose_my_ex_husbands_private_pension_if_I_remarry:
+  - text: "Yes you lose the pension. The pension is ceased to receive from the date of such marriage."
+
+  utter_assets_in_a_divorce:
+  - text: "Money,You and your spouse likely have some financial assets. These financial assets generally include bank (your checking and savings), investment accounts, stocks and bonds, mutual funds, and cash."
+
+  utter_choose_a_good_divorce_lawyer:
+  - text: "You can select a family lawyer through contact information, services, website, social networks, articles and so on. There are online legal help websites which contain details about lawyers. The reputation, working experience and field relevance should be considered."
+
+  utter_When_I_can_start_dating_after_a_divorce:
+  - text: "There is no restriction for dating after getting a divorce. But it is better if you take time to work with a counselor, therapist or relationship life coach to build up your mental health before entering into new relationships."
+
+  utter_Procedure_for_Filing_Divorce_Papers:
+  - text: "- Know which court to file in
+- Check with the county clerk or with an attorney to see if you meet your state's residency requirements
+- Fill out the divorce paperwork
+- Some states allow you to fill out the forms on a computer and submit online divorce papers."
+
+  utter_Can_I_divorce_my_husband_because_he_doesnt_like_to_my_fashions:
+  - text: "You can’t because divorce is only given after proving adultery,or malicious desertion or incurable impotence."
+
+  utter_Can_I_divorce_my_husband_because_he_doesnt_like_to_my_studies_higher_studies:
+  - text: "You can’t because divorce is only given after proving adultery or malicious desertion or incurable impotence."
+
+  utter_Can_I_provide_a_lie_as_a_reason_for_divorce:
+  - text: "You can’t provide lies because the reasons should be proved with powerful evidence. Such as eyewitness testimony."
+
+  utter_Do_I_need_a_reason_to_divorce:
+  - text: "Yes a divorce can be filed only on the following grounds
+- Malicious Desertion
+- Adultery
+- Impotency
+- Separation
+- Action for Nullity of Marriage"
+
+  utter_Do_I_have_to_respond_to_divorce_papers:
+  - text: "When you receive the divorce papers, your spouse is asking for a divorce. You need to respond to the divorce petition. You will be called the Respondent in the case.If you do not file any Answer, the court still must wait for that protected period to run out before taking any decisions in your case."
+
+  utter_Can_I_get_legal_aid_for_divorce:
+  - text: "Legal aid is no longer available to pay the legal costs of divorce or dissolution unless there's been domestic violence or child abduction. However, you can apply for legal aid to pay for mediation, although this is means-tested."
+
+  utter_both_parties_need_a_solicitor_in_divorce:
+  - text: "You can get divorced without needing a solicitor or going to court if you and your ex-partner can agree you both want a divorce, and on the reason why. You don't always need your partner to agree they want a divorce but you'll save time and money if you both agree. You'll still have to pay the divorce application fee"
+
+  utter_marital_property:
+  - text: "Property that an individual owns before marriage is considered separate property, as are inheritances or third-party gifts given to an individual during a marriage. Marriage partners may choose to exclude certain property from marital property by signing a prenuptial or a postnuptial agreement."
+
+  utter_Do_I_have_to_sell_my_house_in_a_divorce:
+  - text: "As a couple goes through the process of a divorce, deciding what to do with the marital home can be tricky. Sometimes one person may wish to keep the house by buying the other spouse out, or they may decide to keep the home and sell it after the divorce is finalized."
+
+  utter_separate_my_credit_after_divorce:
+  - text: "Protect Your Good Credit
+- Close or separate joint accounts.Talk to your ex-spouse, if possible.
+- Take stock of your properties.You may have to refinance your home to get one name off the mortgage, or you might need to sell your home and divide the proceeds.
+- Keep paying all bills."
+
+  utter_Can_my_husband_kick_me_out_of_the_house_we_rent:
+  - text: "If you rent your home with your ex-partner, and you're not married or in a civil partnership, one or both of you may have the right to carry on living in your home – at least in the short term – if you decide to split up. It will depend on whose name is on the tenancy agreement and what type of tenancy you have."
+
+  utter_harassment_during_a_divorce:
+  - text: "Harassment may also occur before, during, or after a divorce. Harassment takes many forms, including verbal abuse. Harassment is when an abuser intentionally causes emotional harm to a victim on a regular basis.During a divorce, your spouse may behave inappropriately toward you and your children"
+
+  utter_joint_mortgage_when_you_divorce:
+  - text: "When two people take out a joint mortgage, both agree to be equally liable for the debt until the mortgage is paid off, not just while you live in the property. If you do not pay the mortgage on time, this damages your credit history as well as your ex-partner's."
+
+
+

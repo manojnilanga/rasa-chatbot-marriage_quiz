@@ -19,7 +19,7 @@ if (strlen($_SESSION['id']==0)) {
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/heroic-features.css" rel="stylesheet">
 </head>
-<body>
+<body style="background-color: #00b1D2FF">
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
@@ -44,12 +44,23 @@ if (strlen($_SESSION['id']==0)) {
             </div>
         </div>
     </nav>
-    <div class="container">
+    <div class="container" style="color: black">
         <header class="jumbotron hero-spacer">
-            <h1><?php echo 'Hello '.$_SESSION['name'];?></h1>
-            <p>This is your fitness company profile page.</p>
-            <p><a  href="logout.php" class="btn btn-primary btn-large">Logout </a>
-            </p>
+            <h2><?php echo 'Hello '.$_SESSION['name'];?></h2>
+            <p><br>
+<b>Law Leesa</b> is a Chat Bot which was built for the purpose of providing assistance to those who would  be unable to afford time and cost to meet lawyers. Law Leesa provides free, reliable legal information and guidance on marriages and divorces within Sri Lanka...
+
+<br><br>No worries..your data is secured in all aspects.
+
+
+
+
+<br><br>Can’t Afford a Lawyer?  We Can Help!
+
+<br>Leesa helps with legal problems on divorce and marriages. We’re passionate about making sure that everyone in Sri Lanka, no matter how little money you have, has access to justice and enjoys real equality.
+</p>
+            <!-- <p><a  href="logout.php" class="btn btn-primary btn-large">Logout </a>
+            </p> -->
         </header>
 
         <hr>
@@ -64,6 +75,22 @@ if (strlen($_SESSION['id']==0)) {
 
 
     </div>
+    <div id="webchat"/>
+        <script src="https://storage.googleapis.com/mrbot-cdn/webchat-latest.js"></script>
+        // Or you can replace latest with a specific version
+        <script>
+        WebChat.default.init({
+            selector: "#webchat",
+            //initPayload: "/get_started",
+            customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+            socketUrl: "http://localhost:5005/",
+            socketPath: "/socket.io/",
+            title: "Law Leesa",
+            //subtitle: "Subtitle",
+            storage:"session"
+            
+        })
+        </script>
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
 </body>

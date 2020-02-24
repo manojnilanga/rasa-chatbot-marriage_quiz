@@ -1,6 +1,16 @@
-https://www.youtube.com/watch?v=J1n3Y8SVxVM
-rasa run -m models --enable-api --cors "*" --debug
 
+Steps to run Law Leesa website
+------------------------------
+
+# use this link to setup relevant dependencies.
 https://www.techomoro.com/how-to-run-a-php-application-on-ubuntu-18-04-2-lts/
 
+# create database named 'loginsystem' and add sql queries in /website/Rasaapp/loginsystem.sql
+
+# copy paste 'Rasaapp' folder into /var/www/html.  (nautilus /var/www/html)
+
+# run this commmand here in terminal to activate rasa chat bot. (extra : https://www.youtube.com/watch?v=J1n3Y8SVxVM)
+rasa run -m models --enable-api --cors "*" --debug
+
+# now you can access the website by http://localhost/Rasaapp/ . Register and login to the system to chat with Law Leesa.
 

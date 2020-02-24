@@ -7,4 +7,6 @@ $_SESSION['action1']="You have logged out successfully..!";
 ?>
 <script language="javascript">
 document.location="index.php";
+sessionStorage.clear();
+localStorage.clear();
 </script>
